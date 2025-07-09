@@ -17,7 +17,7 @@ Inspired by IoC/DI patterns, supports runtime-typed supplier registries and dyna
 ## Example
 
 ```rust
-use supply_demand::{Supplier, ErasedSupplier, Demand, Scope, SupplierRegistry};
+use supply_demand::{Supplier, Demand, Scope, SupplierRegistry};
 use async_trait::async_trait;
 use std::collections::HashMap;
 use std::sync::Arc;
