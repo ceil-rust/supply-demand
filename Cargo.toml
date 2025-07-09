@@ -1,5 +1,5 @@
 [package]
-name = "supply_demand"
+name = "supply-demand"
 version = "0.0.1"
 edition = "2024"
 authors = ["Sergey Shkatula <serg.shkatula@gmail.com>"]
