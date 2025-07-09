@@ -7,7 +7,7 @@ description = "Supply-Demand - A functional dependency injection library"
 license = "MIT"
 repository = "https://github.com/ceil-rust/supply-demand"
 keywords = ["dependency-injection", "di", "supply", "demand", "supply-demand"]
-categories = ["dependency-injection", "development-tools"]
+categories = ["asynchronous", "development-tools", "rust-patterns"]
 readme = "README.md"
 
 [dependencies]
